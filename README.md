@@ -1,1 +1,1 @@
-# First_repository
+# First_repositoryЦе моє перше створення репозиторію і створення комітів
